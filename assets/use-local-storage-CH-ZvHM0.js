@@ -1,0 +1,1 @@
+import{f as l,g as c}from"./index-DhydKnRP.js";function u({key:t,defaultValue:o}){const e=localStorage.getItem(t),r=e!==null?JSON.parse(e):o,[a,s]=l(r);return c(()=>{localStorage.setItem(t,JSON.stringify(a()))}),[a,s]}export{u};
