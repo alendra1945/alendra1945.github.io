@@ -1,1 +1,0 @@
-import{e as n,k as s,c as r,m,D as i,l as p}from"./index-Cafb-DjT.js";const y=c=>{const[t,o]=n(c,["as"]),a=s(()=>t.as??"div");return s(()=>{const e=a();switch(typeof e){case"function":return p(()=>e(o));case"string":return r(i,m({component:e},o))}})};export{y as D};

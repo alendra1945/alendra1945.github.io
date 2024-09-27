@@ -1,0 +1,1 @@
+import{e,h as l,m as n,b as o,i as p,t as c}from"./index-CONonrmZ.js";var m=c("<p>");const g=t=>{const[s,a]=e(t,["class","children"]);return(()=>{var r=m();return l(r,n({get class(){return o("text-sm lg:text-base font-normal text-gray-500",s.class)}},a),!1,!0),p(r,()=>s.children),r})()};export{g as P};
